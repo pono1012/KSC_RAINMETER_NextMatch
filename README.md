@@ -6,7 +6,6 @@
 
 * Automatischer Abruf der nächsten KSC-Partie via **OpenLigaDB**
 * Team-Logos links/rechts, Teamnamen darunter
-* Datum hübsch formatiert (Lua)
 * Transparenter Hintergrund, keine Ränder
 
 ## Installation
